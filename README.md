@@ -6,3 +6,5 @@ and now includes more than 180,000 attacks. The database is maintained by resear
 National Consortium for the Study of Terrorism and Responses to Terrorism (START),
 headquartered at the University of Maryland. Explore and analyze the data to discover key
 findings pertaining to terrorist activities.
+
+This EDA let us understand and create some stats as what are the attacks patterns, why some countries are majorly affected by terrorism.
